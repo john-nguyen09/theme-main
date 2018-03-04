@@ -1,0 +1,18 @@
+{
+    "name": "john-nguyen/theme-main",
+    "type": "pagekit-theme",
+    "version": "1.0.3",
+    "title": "John Nguyen main",
+    "description": "A blueprint to develop your own themes.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Nguyen",
+            "email": "john-nguyen09@outlook.com",
+            "homepage": "http://thuan.website"
+        }
+    ],
+    "extra": {
+        "image": "image.jpg"
+    }
+}

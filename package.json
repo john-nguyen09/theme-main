@@ -1,0 +1,13 @@
+{
+    "name": "theme-hello",
+    "scripts": {
+        "build": "bower install && gulp",
+        "watch": "bower install && gulp watch"
+    },
+    "devDependencies": {
+        "bower": "*",
+        "gulp": "*",
+        "gulp-less": "*",
+        "gulp-rename": "*"
+    }
+}

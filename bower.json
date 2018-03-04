@@ -1,0 +1,7 @@
+{
+    "name": "theme-main",
+    "dependencies": {
+        "uikit": "*"
+    },
+    "private": true
+}
